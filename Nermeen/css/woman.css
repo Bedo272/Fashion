@@ -37,7 +37,13 @@ center
 	font-size: 70px;
 	color: #E6A9EC
 }
+@media(max-width:812px){
 
+    center{
+        font-size: 25px;
+        left: 39%;
+    }
+}
 .navbar-brand
 {
     font-size: 32px;

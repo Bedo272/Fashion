@@ -100,11 +100,9 @@ li
 }
 .features-icon
 {
-    width: 300px;
     color: rgb(250, 225, 114);
     margin-top: 30px;
     margin-bottom: 20px;
-    margin-left: 60px;
     transition: 1s;
 }
 .fa-map-marker-alt, .fa-handshake, .fa-cogs

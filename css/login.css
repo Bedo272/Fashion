@@ -7,7 +7,16 @@ body
     background-image: url(../img/login2.jpg);
     background-size: cover;
     background-position: center;
-    height: 600px
+    height: auto
+}
+@media(max-width:980px){
+    body{
+    background-image: url(../img/login2.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    }
 }
 .overlay
 {

@@ -47,7 +47,7 @@ body
     position: absolute;
 }
 /*navbar*/
-nav, .banner-text {
+nav, .banner-text , modal {
     z-index: 300;
 }
 .navbar-brand
